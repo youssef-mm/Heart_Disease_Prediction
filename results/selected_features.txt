@@ -1,0 +1,5 @@
+age
+chol
+thalch
+oldpeak
+cp_asymptomatic
